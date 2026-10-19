@@ -1,0 +1,19 @@
+{
+  "appId": "com.grandmaster.chess",
+  "appName": "Grandmaster Chess",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#0c1017"
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#0c1017"
+    }
+  }
+}

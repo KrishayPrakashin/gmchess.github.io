@@ -1,0 +1,8 @@
+{
+  "name": "Grandmaster Chess",
+  "description": "Professional cross-platform chess ecosystem featuring real-time engine evaluation, tactical puzzles, opening explorer, custom time controls, and comprehensive game analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
